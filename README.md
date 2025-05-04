@@ -1,1 +1,2 @@
 # powerbi-sales-intelligence-dashboard
+This Power BI Sales Intelligence Dashboard provides an interactive and insightful analysis of sales and profit data across different countries, product categories, customer segments, and time periods. It enables users to filter data dynamically and identify key business trends using KPI cards, charts, and visual breakdowns. The dashboard was built using Power BI, with data cleaned in Power Query and KPIs calculated using DAX.
